@@ -213,11 +213,10 @@ The project provides:
 CodeAlpha_Credit-Scoring-Model/
 │
 ├── credit_score.csv
-├── logistic_regression.py
-├── decision_tree.py
-├── random_forest.py
-├── README.md
-└── requirements.txt
+├── logistic_regression.ipynb
+├── decision_tree.ipynb
+├── random_forest.ipynb
+└── README.md
 ```
 
 ---
@@ -227,7 +226,6 @@ CodeAlpha_Credit-Scoring-Model/
 ## Tanishq Chothiyawala
 
 - MCA (Generative AI)
-- SRM University Chennai
 
 GitHub Repository:
 
